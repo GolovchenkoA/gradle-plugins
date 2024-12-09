@@ -81,8 +81,13 @@ Here tasks names:
 
 Servers tasks
 -------------
+
 deployToAws
+
 deployToMyAzureCloud
+
 deployToPrivateCloud
+
 exportServers
+
 listClusters
